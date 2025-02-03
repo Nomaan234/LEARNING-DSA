@@ -39,11 +39,15 @@ int main()
         cin>>arr1[i];
     }
 
+   
+
     cout<<" 1st arrat is : ";
     for (int i=0 ; i<n ; i++)
     {
         cout<<arr1[i]<<" ";
     }
+
+    
 
     //second array----------
     int m;
